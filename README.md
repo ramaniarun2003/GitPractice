@@ -1,1 +1,1 @@
-# GitPractice
+# GitPractice is cool
